@@ -4,3 +4,4 @@ class Node:
     self.next = next
 s = Node(5)
 print(s.data)
+print(s.next)
